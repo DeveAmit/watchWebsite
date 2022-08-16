@@ -225,7 +225,7 @@ header .right-side ul li a {
     font-size: 10px;
     font-weight: 500;
     transition: .3s linear;
-}
+}  
 
 header .right-side ul li a:hover {
     color: #fff;
