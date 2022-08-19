@@ -58,7 +58,7 @@ header .left-side nav {
     margin: auto;
     color: #fff;
     display: flex;
-    align-items: center;
+    align-items: center;  
 }      
 
 header .left-side nav ul {
