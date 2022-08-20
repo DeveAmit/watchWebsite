@@ -5,7 +5,7 @@ const right = document.getElementById("right");
 left.addEventListener('click', () => {
     bx1.scrollLeft += 100;
 });
-
+ 
 right.addEventListener('click', () => {
     bx1.scrollLeft -= 100;
 });
