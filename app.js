@@ -23,7 +23,7 @@ scroll_watch[0].addEventListener('click', () =>{
     h6.innerText = "$359.00";
     span_number.innerText = 1;
     setTimeout(() => {  
-        img.style.botton ="-100px"; 
+        img.style.botton ="-100px";  
     }, 500);
     setTimeout(() => {
         img.style.botton ="-230px";
