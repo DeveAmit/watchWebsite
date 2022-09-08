@@ -11,11 +11,7 @@ right.addEventListener('click', () => {
 });    
  
 const scroll_watch = document.getElementsByClassName("scroll_watch");
-<<<<<<< HEAD
-const main_watch = document.getElementsByClassName("main_watch")[0];
-=======
 const main_watch = document.getElementsByClassName("main_watch")[0];  
->>>>>>> 6c0cfea (new)
 const img = document.getElementsByClassName("img")[0];
 const svg = document.getElementById("svg");
 const span_number = document.getElementById("span_number");
