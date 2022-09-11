@@ -30,7 +30,7 @@ scroll_watch[0].addEventListener('click', () =>{
     }, 1000);    
     setTimeout(() => {
         img.src = "img/img2.png";   
-    }, 1900);
+    }, 1900);      
     setTimeout(() => {
         img.style.botton ="0px";
     }, 2300);
