@@ -25,7 +25,7 @@ scroll_watch[0].addEventListener('click', () =>{
     setTimeout(() => {     
         img.style.botton ="-100px";  
     }, 500);
-    setTimeout(() => {      
+    setTimeout(() => {             
         img.style.botton ="-230px"; 
     }, 1000);       
     setTimeout(() => { 
