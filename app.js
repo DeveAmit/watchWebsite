@@ -29,7 +29,7 @@ scroll_watch[0].addEventListener('click', () =>{
         img.style.botton ="-230px"; 
     }, 1000);    
     setTimeout(() => {
-        img.src = "img/img2.png";      
+        img.src = "img/img2.png";        
     }, 1900);      
     setTimeout(() => {
         img.style.botton ="0px";
