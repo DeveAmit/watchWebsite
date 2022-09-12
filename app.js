@@ -84,3 +84,4 @@ add_to_cart.addEventListener('click', ()=> {
     a +=1;
     cart.innerText = a;
 })
+
