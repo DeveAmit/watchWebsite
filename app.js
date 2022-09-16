@@ -16,7 +16,7 @@ const img = document.getElementsByClassName("img")[0];
 const svg = document.getElementById("svg");
 const span_number = document.getElementById("span_number");
 const h6 = document.getElementsByTagName("h6")[0];
-
+  
 scroll_watch[0].addEventListener('click', () =>{
     main_watch.src = "img/watch1.png";
     svg.innerHTML = '<text x="0%" y="90%">Gen 5</text>>';              
