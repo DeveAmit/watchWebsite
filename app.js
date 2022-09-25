@@ -1,7 +1,7 @@
 const bx1 = document.getElementsByClassName("bx")[0];
 const left = document.getElementById("left");
 const right = document.getElementById("right");
-
+   
 left.addEventListener('click', () => {
     bx1.scrollLeft += 100;
 });
