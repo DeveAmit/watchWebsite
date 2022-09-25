@@ -6,7 +6,7 @@ left.addEventListener('click', () => {
     bx1.scrollLeft += 100;
 });
  
-right.addEventListener('click', () => {
+right.addEventListener('click', () => { 
     bx1.scrollLeft -= 100;  
 });    
  
