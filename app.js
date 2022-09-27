@@ -15,7 +15,7 @@ const main_watch = document.getElementsByClassName("main_watch")[0];
 const img = document.getElementsByClassName("img")[0];   
 const svg = document.getElementById("svg");
 const span_number = document.getElementById("span_number");  
-const h6 = document.getElementsByTagName("h6")[0];   
+const h6 = document.getElementsByTagName("h6")[0];     
     
 scroll_watch[0].addEventListener('click', () =>{      
     main_watch.src = "img/watch1.png";  
