@@ -21,7 +21,7 @@ scroll_watch[0].addEventListener('click', () =>{
     main_watch.src = "img/watch1.png";  
     svg.innerHTML = '<text x="0%" y="90%">Gen 5</text>>';              
     h6.innerText = "$359.00";  
-    span_number.innerText = 1;     
+    span_number.innerText = 1;        
     setTimeout(() => {     
         img.style.botton ="-100px";  
     }, 500);
