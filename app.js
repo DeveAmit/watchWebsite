@@ -9,7 +9,7 @@ left.addEventListener('click', () => {
 right.addEventListener('click', () => { 
     bx1.scrollLeft -= 100;  
 });    
- 
+               
 const scroll_watch = document.getElementsByClassName("scroll_watch");    
 const main_watch = document.getElementsByClassName("main_watch")[0];  
 const img = document.getElementsByClassName("img")[0];   
