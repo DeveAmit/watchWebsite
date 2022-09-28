@@ -206,7 +206,7 @@ header .right-side{
 header .right-side ul {
     /* border: 1px solid  #fff; */
     width: 90%;
-    height: 10%;
+    height: 10%;  
     margin: auto;
     display: flex;
     align-items: center;
