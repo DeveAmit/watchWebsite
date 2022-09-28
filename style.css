@@ -197,12 +197,12 @@ header .left-side footer .foot_bx h4 .img {
     border: 0px;
     transition: 2.3s linear ;
 
-}
+}    
 
 header .right-side{
     border: 1px solid  #fff;
 }
-
+  
 header .right-side ul {
     /* border: 1px solid  #fff; */
     width: 90%;
