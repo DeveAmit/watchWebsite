@@ -208,7 +208,7 @@ header .right-side ul {
     width: 90%;
     height: 10%;  
     margin: auto;
-    display: flex;
+    display: flex;  
     align-items: center;
     justify-content: flex-end;
     list-style-type: none;
