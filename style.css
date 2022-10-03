@@ -211,7 +211,7 @@ header .right-side ul {
     display: flex;  
     align-items: center;
     justify-content: flex-end;
-    list-style-type: none;
+    list-style-type: none;   
 }
 
 header .right-side ul li {
